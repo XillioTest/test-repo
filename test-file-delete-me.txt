@@ -1,0 +1,43 @@
+{
+    "kind": "File",
+    "original": {
+        "file": {
+            "rawExtension": "txt",
+            "extension": "txt",
+            "size": 28
+        },
+        "hash": {
+            "sha1": "354a0b4a780c7c69c714b5d181b90d0d80e47f68"
+        },
+        "mimeType": {
+            "type": "text/plain"
+        },
+        "name": {
+            "systemName": "test-file-delete-me.txt",
+            "displayName": "test-file-delete-me.txt"
+        },
+        "parent": {
+            "id": "http://tenant.localhost:8070/v2/entities/5a8440ad08813b000588231e/repos/XillioTest/test-repo/test-branch/"
+        }
+    },
+    "modified": {
+        "file": {
+            "rawExtension": "txt",
+            "extension": "txt",
+            "size": 28
+        },
+        "hash": {
+            "sha1": "354a0b4a780c7c69c714b5d181b90d0d80e47f68"
+        },
+        "mimeType": {
+            "type": "text/plain"
+        },
+        "name": {
+            "systemName": "test-file-delete-me2.txt",
+            "displayName": "test-file-delete-me2.txt"
+        },
+        "parent": {
+            "id": "http://tenant.localhost:8070/v2/entities/5a8440ad08813b000588231e/repos/XillioTest/test-repo/test-branch/"
+        }
+    }
+}
